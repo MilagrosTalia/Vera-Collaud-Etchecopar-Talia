@@ -11,7 +11,7 @@
 
 ### Repositorios
 * [frontend app] git@github.com:MilagrosTalia/Backend-Protectora.git
-* [backend app] git@github.com:MilagrosTalia/Frontend-Protectora.git
+* [backend app] https://github.com/MilagrosTalia/Backend-Protectora
   
 ## Tema
 
